@@ -1,5 +1,7 @@
 RENCANA BELAJAR
 
 - Javascript
+  *DOM
+  *Framework
 - C++
 - Git
