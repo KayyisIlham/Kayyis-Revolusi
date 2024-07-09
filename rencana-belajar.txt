@@ -3,6 +3,8 @@ RENCANA BELAJAR
 - Javascript
   *DOM
   *Framework
+    ^ Angular
+    ^ React
 - Algoritma Pemograman
 - C++
-- Git
+- Laravel
