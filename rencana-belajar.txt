@@ -3,6 +3,10 @@ RENCANA BELAJAR
 - Javascript
   *DOM
   *Framework
+    ^ Vue
+    ^ React
 - Algoritma Pemograman
 - C++
+  ^ OOP
 - Git
+- Phyton
