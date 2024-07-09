@@ -3,5 +3,6 @@ RENCANA BELAJAR
 - Javascript
   *DOM
   *Framework
+- Algoritma Pemograman
 - C++
 - Git
