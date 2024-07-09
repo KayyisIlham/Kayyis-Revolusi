@@ -4,6 +4,7 @@ RENCANA BELAJAR
   *DOM
   *Framework
     ^ Vue
+    ^ React
 - Algoritma Pemograman
 - C++
   ^ OOP
